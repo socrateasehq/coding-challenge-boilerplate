@@ -1,6 +1,6 @@
 // User Boilerplate
 function getValueAtIndex(index, arr) {
-    // Write the logic here
+    //Write your code here
     return;
 }
 

@@ -3,12 +3,11 @@ import java.util.Scanner;
 
 class Solution {
     public Character firstChar(String input) {
-        //write your code here
+        //Write your code here
     }
 }
 
-
-//compiler boilderplate
+//Compiler Boilderplate
 class Driver{
     public static void main(String args[]){
         Scanner scanner = new Scanner(System.in);

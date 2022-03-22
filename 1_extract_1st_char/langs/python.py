@@ -1,6 +1,6 @@
 # User Boilerplate
 def extract_first_char(str):
-    # Write the logic here
+    # Write your code here
     return
     
 

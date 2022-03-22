@@ -5,11 +5,10 @@
 using namespace std;
 
 char first_character(string s) {
-    //write your code here
+    //Write your code here
 }
 
 //Compiler Boilerplate
-
 int main() {
 
     string s;

@@ -1,10 +1,12 @@
+//User Boilerplate
 #include <stdio.h>
 #include <stdlib.h>
 
 char first_character(char *string) {
-  //write your code here
+  //Write your code here
 }
 
+//Compiler Boilerplate
 int main(int argc, char *argv[])
 {
   char *buffer = NULL;

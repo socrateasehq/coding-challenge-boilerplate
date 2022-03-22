@@ -3,10 +3,9 @@ import java.util.Scanner;
 
 class Solution {
     public getValueAtIndex(int index, int arr[]) {
-        //write your code here
+        //Write your code here
     }
 }
-
 
 //compiler boilderplate
 class Driver {

@@ -1,6 +1,6 @@
 // User Boilerplate
 function extractFirstChar(str) {
-    // Write the logic here
+    //Write your code here
 }
 
 // Compiler Boilerplate

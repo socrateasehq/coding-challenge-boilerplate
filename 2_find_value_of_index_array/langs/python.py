@@ -1,6 +1,6 @@
 # User Boilerplate
 def get_value_at_index(index, arr):
-    # Write the logic here
+    # Write your code here
     return
 
 

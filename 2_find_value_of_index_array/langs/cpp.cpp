@@ -5,11 +5,10 @@
 using namespace std;
 
 char get_value_at_index(int index, int arr[]) {
-    //write your code here
+    //Write your code here
 }
 
 //Compiler Boilerplate
-
 int main() {
 
     int numOfElements;

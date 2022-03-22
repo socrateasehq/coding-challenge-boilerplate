@@ -1,10 +1,12 @@
+//User Boilerplate
 package main
 import "fmt"
 
 func extractFirstChar(strFirstChar string) string {
-	//write your code here
+	//Write your code here
 }
 
+//Compiler Boilerplate
 func main(){
     // Taking input from user
 	var strFirstChar string
