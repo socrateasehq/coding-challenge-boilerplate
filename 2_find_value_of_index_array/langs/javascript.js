@@ -6,9 +6,9 @@ function getValueAtIndex(index, arr) {
 
 // Compiler Boilerplate
 const numOfElements = parseInt(readline());
-const input_arr = readline()
+const inputArr = readline()
     .split(" ")
     .map((i) => i);
 const index = parseInt(readline());
-const s = getValueAtIndex(index, arr);
+const s = getValueAtIndex(index, inputArr);
 print(s);
